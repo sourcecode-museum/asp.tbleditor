@@ -1,0 +1,117 @@
+A  {
+	font-size : xx-small;
+	color : #703200;
+	text-decoration : underline;
+}
+
+A:Visited  {
+	color : #8b008b;
+	text-decoration : underline;
+}
+
+A:Active  {
+	text-decoration : underline;
+}
+
+A:Hover  {
+	text-decoration : underline;
+}
+
+BODY  {
+	font-size : xx-small;
+	font-family : Verdana;
+	color : #703200;
+}
+
+.smallheader  {
+	font-size : x-small;
+	font-weight : bold;
+}
+
+.smallerheader  {
+	font-weight : bold;
+	font-size : xx-small;
+}
+
+.smalltext  {
+	font-size : x-small;
+}
+
+.smallertext  {
+	font-size : xx-small;
+}
+
+.tbflat  {
+	font-size : xx-small;
+	font-family : Verdana;
+	border-width : 1;
+	border-style : solid;
+	border-color : #008080;
+}
+
+.cmdflat  {
+	font-size : xx-small;
+	font-family : Verdana;
+	background-color : #483d8b;
+	color : #ffffff;
+	font-weight : bold;
+	border-width : thin;
+}
+
+.smallbutton {
+	font-size: 9px;
+	border-width: 1;
+}
+
+.updown_sort {
+	cursor: hand;
+}
+
+.smimg {
+	width: 9;
+	height: 11;
+	border: 0;
+	cursor: hand;
+}
+
+.folder {
+	color: gray;
+}
+
+.mdbNew {
+	color: blue;
+}
+
+.mdbExist {
+	color: STEELBLUE;
+}
+
+.hrBar {
+	color: #C0C0C0;
+}
+
+.OpenDialogueFont {
+	font-size: xx-small;
+	font: MessageBox;
+	color: black;
+	cursor: default;
+}
+
+.SQLBuilder {
+	cursor: hand;
+	font: Courier;
+	color: darkblue;
+}
+
+.HelpText
+{
+	background-color : #ffffe0;
+	padding-left : 5px;
+	padding-top : 5px;
+	padding-right : 5px;
+	padding-bottom : 10px;
+	border-top : 1px dotted #ccccdd;
+	border-left : 1px dotted #ccccdd;
+	border-right : 1px dotted #ccccdd;
+	border-bottom : 1px dotted #ccccdd;
+}

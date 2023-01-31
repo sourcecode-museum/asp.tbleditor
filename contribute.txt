@@ -1,0 +1,20 @@
+==============================================================
+Note for Contributors:
+--------------------------------------------------------------
+If you want to contribute to the development of TableEditor or
+any other project listed on the site, please consider the
+following issues:
+
+Include your name, (optionally email), modification date and a
+summary of modifications in the header of the modified file.
+
+Put only the modified (and new) files into a .zip file, also
+include a readme file into this package.
+
+Give a descriptive name to the zip file and upload it using the
+"user uploads" tool on the site.
+
+Thanks for supporting OpenSource community!
+
+Hakan Eskici, hakan@2enetworx.com
+http://www.2enetworx.com/dev

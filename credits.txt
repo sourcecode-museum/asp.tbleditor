@@ -1,0 +1,130 @@
+==============================================================
+                C    R    E    D    I    T    S
+==============================================================
+2eNetWorX TableEditoR 
+http://www.2enetworx.com/dev/projects/tableeditor.asp
+--------------------------------------------------------------
+
+I am glad for the following team for their great efforts.
+TableEditoR wouldn't be as it is today without them.
+
+Thanks for supporting OpenSource!
+
+All contributions listed here might not be included in the
+latest release.
+
+Please contact me if you believe you should be listed here.
+
+Hakan Eskici, hakan@2enetworx.com
+
+==============================================================
+
+» Rami Kattan, 2enetworx@kattanweb.8k.com
+--------------------------------------------------------------
+Compiled v0.7 fixes together and upgraded to v0.8 beta
+Added client side TDC grid for Internet Explorer (autodetect)
+Added dynamic configuration support
+Added XML features
+
+» Jeffrey A. Wilkinson, jwilkinson@mail.com
+--------------------------------------------------------------
+Ideas, testing, fixes and support for version 0.8 beta
+Security fix for conn=0 bug
+
+» Pete Stucke, pstucke@hotmail.com
+--------------------------------------------------------------
+Helped in XML Export feature
+Added simple Excel export functionality
+Added dynamic paging
+Added select/unselect buttons for multidelete
+
+» Raf, raf@gamebox.net
+--------------------------------------------------------------
+Added simple stored procedures management for SQL Server
+
+Guido Stek, ga-stek@hetnet.nl
+--------------------------------------------------------------
+Dutch translation
+
+Massimiliano Luciani, webmaster@byluciani.com
+--------------------------------------------------------------
+Italian translation
+Added dynamic listing of databases
+
+» Luigi, baijo@inwind.it
+--------------------------------------------------------------
+Added backup functionality
+Stored procedures support
+
+» rDude, rdude@thebluecopy.com
+--------------------------------------------------------------
+Compiled v0.7 fixes together
+
+Udo Grünebaum, udo.gruenebaum@gitnet.de
+--------------------------------------------------------------
+German Translation
+Fix for Server.Mappath bug
+
+» Scott Wilkinson, scott@higherstate.com
+--------------------------------------------------------------
+Added dynamic database definition feature
+
+» Forrest Stevens, 2enetworx.com@forreststevens.com
+--------------------------------------------------------------
+Bug fix for ServerMap error in te_config.asp.
+
+» Brad Orgill, brad_orgill@non.agilent.com
+--------------------------------------------------------------
+Added check for non-auto increment primary and foreign keys
+
+» Rakesh Jain, rakeshjain@iname.com
+--------------------------------------------------------------
+Fixed SQL Server parameterized queries and stored procedures
+Fixed system table display issues
+
+» Mark Buckley, buckleym@bellatlantic.net
+--------------------------------------------------------------
+Compiled v0.7 fixes together
+
+» Alain Jackuot, ajacquot@hotmail.com
+--------------------------------------------------------------
+Fixed "Object or provider is not capable..." DSN bug
+
+» Ivan Lanin, ivan@bdg.centrin.net.id
+--------------------------------------------------------------
+Added data types for SQL Server
+Improved input controls
+
+» Richard Deeming, richard@ariad-software.com
+--------------------------------------------------------------
+Added bulk compact feature
+Notified a potential bug in file name check for protection.
+
+» Daniele Ton, tonon@galactica.it
+--------------------------------------------------------------
+Added relation listbox support for search results
+
+» Mark Petersen, markp@biscanada.com
+--------------------------------------------------------------
+Fixed schema bug for DSN connections
+
+» Knut Schwarz, schwarzk@mabi.de
+--------------------------------------------------------------
+Added support for OLE images in database
+
+» Kevin Yochum, keviny@warp-drive.com
+--------------------------------------------------------------
+Added "searching tables" feature
+Added support for null values
+
+» Alexander Zeitler, zeitler@aspintranet.de
+--------------------------------------------------------------
+German translation
+
+» Danival A. Souza, danival@nbh.com.br 
+--------------------------------------------------------------
+Developed Foreign Key support into TableEditor.
+Fixed a bug with sql query problems
+
+
+

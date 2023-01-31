@@ -1,0 +1,22 @@
+==============================================================
+                I    N    S    T    A    L    L
+==============================================================
+2eNetWorX TableEditoR 
+http://www.2enetworx.com/dev/projects/tableeditor.asp
+--------------------------------------------------------------
+
+1. Extract the zip file into a folder on your web server.
+
+2. Navigate to that folder using your browser.
+
+3. Default login for admin is admin/admin, but change the password for the admin account. 
+
+4. Once you logged in, select "Administer databases" option in the dropdown to begin defining your connections. (You'll need to "Add Record" for a new database)
+
+Notes:
+
+* Make sure you are storing your database files somewhere secure on your web server. If you dont host your site yourself, contact your hosting company to change the permissions on your database folder. It should be readable/modifiable by ASP, but not accesible by the visitors. 
+
+* If you're using Windows XP, you may need to use CACLS tool to grant write permission to your database files.
+
+* If you have questions, you may ask them using the feedback tools on the site. 

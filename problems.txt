@@ -1,0 +1,22 @@
+==============================================================
+           P    R    O    B    L    E    M    S
+==============================================================
+2eNetWorX TableEditoR 
+http://www.2enetworx.com/dev/projects/tableeditor.asp
+--------------------------------------------------------------
+
+
+1. Saved Queries with LIKE wildcard "*" will not work correctly,
+   you need to use "%" instead.
+
+  Wrong:
+     ... WHERE FieldName LIKE "a*" ...
+
+  Correct:
+     ... WHERE FieldName LIKE "a%" ...
+
+2. SQL Server
+
+   SQL server 2000 connections doesn't allow creating editing 
+   table structure, problem is the incompatible SQL statements.
+
